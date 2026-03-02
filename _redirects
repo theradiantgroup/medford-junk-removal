@@ -1,0 +1,2 @@
+# Redirect www to non-www
+https://www.medfordjunkremoval.com/* https://medfordjunkremoval.com/:splat 301

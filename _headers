@@ -1,0 +1,16 @@
+# Prevent .pages.dev from being indexed (staging only)
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+# Cache static assets
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
