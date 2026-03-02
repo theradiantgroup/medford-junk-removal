@@ -1,2 +1,1 @@
-# Redirect www to non-www
-https://www.medfordjunkremoval.com/* https://medfordjunkremoval.com/:splat 301
+# Redirects handled via Cloudflare DNS (www -> non-www set in Cloudflare dashboard)
