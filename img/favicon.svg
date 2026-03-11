@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#2D7A3A"/>
+  <g transform="translate(8, 14) scale(0.75)">
+    <!-- Truck bed -->
+    <rect x="2" y="10" width="32" height="22" rx="2" fill="#fff"/>
+    <!-- Cab -->
+    <path d="M34 18 L34 32 L52 32 L52 24 L44 18 Z" fill="#fff"/>
+    <!-- Windshield -->
+    <path d="M36 20 L43 20 L49 25 L49 29 L36 29 Z" fill="#2D7A3A" opacity="0.5"/>
+    <!-- Wheels -->
+    <circle cx="14" cy="36" r="6" fill="#F5A623"/>
+    <circle cx="14" cy="36" r="3" fill="#2D7A3A"/>
+    <circle cx="44" cy="36" r="6" fill="#F5A623"/>
+    <circle cx="44" cy="36" r="3" fill="#2D7A3A"/>
+    <!-- Junk in bed -->
+    <rect x="6" y="4" width="10" height="8" rx="1" fill="#F5A623" opacity="0.9"/>
+    <rect x="18" y="6" width="8" height="6" rx="1" fill="#F5A623" opacity="0.7"/>
+    <rect x="11" y="0" width="6" height="6" rx="1" fill="#F5A623" opacity="0.8"/>
+  </g>
+</svg>
