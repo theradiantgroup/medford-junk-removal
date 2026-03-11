@@ -1,5 +1,5 @@
 /* ============================================
-   MEDFORD JUNK REMOVAL - Main JavaScript
+   MEDFORD JUNK PROS - Main JavaScript
    ============================================ */
 
 document.addEventListener('DOMContentLoaded', function() {

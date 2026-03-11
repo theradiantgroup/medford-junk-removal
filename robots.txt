@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://medfordjunkremoval.com/sitemap.xml
+Sitemap: https://medfordjunkpros.com/sitemap.xml
