@@ -79,6 +79,24 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://medfordjunkpros.com/services/garage-cleanout/</loc>
+        <lastmod>2026-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://medfordjunkpros.com/services/hot-tub-removal/</loc>
+        <lastmod>2026-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://medfordjunkpros.com/services/hoarding-cleanup/</loc>
+        <lastmod>2026-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://medfordjunkpros.com/contact/</loc>
         <lastmod>2026-03-10</lastmod>
         <changefreq>monthly</changefreq>
